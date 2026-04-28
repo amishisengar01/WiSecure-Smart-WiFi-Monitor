@@ -1,2 +1,21 @@
-# WiSecure-Smart-WiFi-Monitor
-Machine Learning based Smart WiFi and Network Safety Monitoring System for detecting risky network traffic in real time.
+# Network Security Project
+
+## Description
+This project analyzes network security parameters to detect potential threats such as:
+- Open or insecure networks
+- ARP spoofing
+- Insecure services
+
+## Features
+- Network scanning
+- Security risk scoring
+- Threat detection
+- Safety recommendations
+
+## Technologies Used
+- Python
+- Machine Learning
+- Networking concepts
+
+## Author
+Anupam Singh
