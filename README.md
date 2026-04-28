@@ -18,4 +18,4 @@ This project analyzes network security parameters to detect potential threats su
 - Networking concepts
 
 ## Author
-Anupam Singh
+Amishi Sengar
